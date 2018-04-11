@@ -3,7 +3,7 @@ FROM oliechti/c1-a-student
 #
 # Replace this value with your email
 #
-ENV STUDENT_EMAIL firsname.lastname@heig-vd.ch
+ENV STUDENT_EMAIL james.smith@heig-vd.ch
 
 #
 # Do not touch the lines below
